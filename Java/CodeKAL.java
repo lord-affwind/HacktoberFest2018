@@ -11,3 +11,9 @@ public class CodeKal {
 	}
 
 }
+public class CodeKal {
+
+	public static void main(String[] args) {
+
+		System.out.println("I love CodeKAL!");
+		System.out.println("I am too happy being a part of CodeKAL.");
